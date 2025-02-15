@@ -29,9 +29,7 @@ Password Strength: Strong
 
 1. Clone the Repository:
 
-git clone https://github.com/hdoppelt/Password-Strength-Checker.git
-
-cd Password-Strength-Checker
+https://github.com/hdoppelt/Password-Strength-Checker.git
 
 2. Open the Project in Visual Studio or Visual Studio Code.
 
