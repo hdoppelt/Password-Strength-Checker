@@ -27,7 +27,22 @@ Password Strength: Strong
 
 # How to Run
 
-TODO
+1. Clone the Repository:
+
+git clone https://github.com/hdoppelt/Password-Strength-Checker.git
+cd Password-Strength-Checker
+
+2. Open the Project in Visual Studio or Visual Studio Code.
+
+3. Run the Program:
+
+- If using Visual Studio, click on Run or press Ctrl + F5.
+
+- If using Visual Studio Code, open the terminal and run:
+
+dotnet run
+
+4. Enter a Password when prompted to check its strength.
 
 # Limitations
 
